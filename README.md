@@ -1,12 +1,3 @@
-# stat231_Calendar
-
-Collected and wrangled the data exported from Google Calendar app using R dplyr and lubridate package to create data visualizations and track how my
-time was spent. Answered three research questions:
-
-1. How much do I procrastinate?--difference in time I have for studying and the actual time I spend on it.
-2. How does my sleep schedule affect productivity?
-3. How much time do I spend on cooking and eating meals? Does spending time on cooking affect my studying time?
-
 # Calendar Assignment: How do I spend my time?
 
 # Introduction
@@ -23,7 +14,7 @@ For Amherst students and many college students across the country, COVID 19 mark
 
 # Data
 
-## For 32 days, I used Google Calendar to explore how I spend my time. I only kept track of a few activities that take up most of my time during the day--studying, class, eating and sleeping. At the end of approximately one month period, I collected my data for data wrangling and analysis.
+For 32 days, I used Google Calendar to explore how I spend my time. I only kept track of a few activities that take up most of my time during the day--studying, class, eating and sleeping. At the end of approximately one month period, I collected my data for data wrangling and analysis.
 
 ## Variables
 
@@ -74,7 +65,7 @@ I created this table to explore how my sleep schedule affects productivity. The 
 
 This project provided valuable insight into how I spend my time. Realistically, however, it was hard to keep a detailed track of how I spend time. When collecting the data, I focused only on a few activities—classes, sleeping, eating, and studying, so the data would not provide accurate representation of how I spend time every day. Also, the data recognizes the length of time spent on a schedule that lasts overnight as if it is spent only on the start date. When calculating the amount of time I actually have on a certain day, I had to either perform a very complicated data wrangling or assign the length of time spent manually to each day in the data collection process. For future projects, I would use a different code for reading the data set into R so that it assigns the length of time spent on an overnight activity to each day automatically.
 
-## I collected the data set for 32 days, but it was not sufficient to establish the relationship between how I spent time on two different activities. I would have to collect the data for at least six months to discover meaningful relationships.
+I collected the data set for 32 days, but it was not sufficient to establish the relationship between how I spent time on two different activities. I would have to collect the data for at least six months to discover meaningful relationships.
 
 ## Ethical Consideration
 
