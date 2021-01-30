@@ -18,7 +18,7 @@ For 32 days, I used Google Calendar to explore how I spend my time. I only kept 
 
 ## Variables
 
-## Among the variables in the original data set, I focused on the summary, which is converted to lower case letters for the ease of analysis, date of an activity, its starting time and date, ending time and date and length of time converted to hours. I also added the day variable which expresses day of the week of each date.
+Among the variables in the original data set, I focused on the summary, which is converted to lower case letters for the ease of analysis, date of an activity, its starting time and date, ending time and date and length of time converted to hours. I also added the day variable which expresses day of the week of each date.
 
 # Results
 
